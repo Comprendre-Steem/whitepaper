@@ -585,7 +585,7 @@ Dans la plupart des modèles de monétisation de contenu, les créateurs de cont
 Les créateurs de contenu publiant du contenu sur des sites de média sociaux connectés à Steem pourront monétiser uniquement en ayant leur travail reconnu (ou "aimé") par la communauté Steem. Les récompenses basées sur la chaîne de blocs sont complètement numérique et sans intermédiaire.
 C'est pourquoi un système de monétisation basé sur des récompenses provenant de la chaîne de blocs devrait être plus rapide et nettement moins difficile à utiliser que la monétisation via la publicité.
 
-# Conclusion
+# Conclusions
 
 Steem est une expérience pour relever les défis de l'industrie des crypto-monnaies et des médias sociaux en combinant les meilleurs aspects de ces deux mondes. Steem présente une opportunité aux créateurs de contenu et aux internautes avec des techniques qui n'existent pas dans l'industrie des médias sociaux. Avec Steem, les individus gagnent des récompenses réelles en ligne correspondant à leurs contributions. Ces récompenses peuvent avoir une correspondance au dollar grâce aux mécanismes du marché interne et à la liquidité du STEEM. Les utilisateurs qui détiennent du STEEM bénéficient d'une plus grand capacité de gain que ceux qui n'en ont pas.
 
